@@ -1,5 +1,10 @@
 from karel.stanfordkarel import *
 
+"""
+When you finish writing this file, Karel should have repaired 
+each of the columns in the temple
+"""
+
 def main():
     cycle()
     move4()
