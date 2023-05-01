@@ -1,7 +1,7 @@
 # Stanford-Code-in-Place-2023
 
 ### [Course Website](https://codeinplace.stanford.edu/)  
-This repository is used to store my code for weekly assignments.
+This repository is used to store my solutions for weekly assignments.
 
 ### My Assignment Work
 
