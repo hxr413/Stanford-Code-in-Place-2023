@@ -2,6 +2,7 @@
 
 ### [Course Website](https://codeinplace.stanford.edu/)  
 This repository is used to store my solutions for weekly assignments.
+To learn about Karel, see [here](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html).
 
 ### My Assignment Work
 
