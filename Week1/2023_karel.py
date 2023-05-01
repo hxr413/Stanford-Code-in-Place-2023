@@ -13,6 +13,7 @@ def main():
     for i in range(23):
         put_beeper()
     move()
+    
 
 if __name__ == '__main__':
     main()
