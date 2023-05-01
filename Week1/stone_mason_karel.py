@@ -10,6 +10,7 @@ def main():
     move4()
     cycle()
 
+    
 def cycle():
     turn_left()
     put5beepers()
@@ -19,12 +20,14 @@ def cycle():
     put5beepers()
     turn_left()
 
+    
 def put5beepers():
     for i in range(4):
         put_beeper()
         move()
     put_beeper()
 
+    
 def move4():
     for i in range(4):
         move()
