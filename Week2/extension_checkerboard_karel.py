@@ -14,7 +14,7 @@ def main():
             if left_is_clear():
                 move_to_next_row()
         put_beeper()
-    # handle width > 1 (due to the limitation of IDE, haven't been able to test with even columns)
+    # handle width > 1
     else:
         while left_is_clear():
             odd_row()
