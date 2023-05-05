@@ -18,9 +18,7 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 [Fill Karel](https://codeinplace.stanford.edu/cip3/share/7RtQ77m3qC9SzaJHViOp)  
 [Hello Name](https://codeinplace.stanford.edu/cip3/share/lEI4v7zXyOPuMC7lk1TV)  
 **Section problem**: [Spread Beepers](https://codeinplace.stanford.edu/cip3/share/PABXLdqiEsEtC6CK56ML)  
-**Extension problems**:  
-[Random Painter Karel](https://codeinplace.stanford.edu/cip3/share/bmYxxCi27dAykGoYnT6j)  
-[Checkerboard Karel](https://codeinplace.stanford.edu/cip3/share/f7FXqWsRljIWJY4uwniQ)  
+**Extension problems**: [Random Painter Karel](https://codeinplace.stanford.edu/cip3/share/bmYxxCi27dAykGoYnT6j), [Checkerboard Karel](https://codeinplace.stanford.edu/cip3/share/f7FXqWsRljIWJY4uwniQ)  
 
 ### [Week 3](Week3)  
 
