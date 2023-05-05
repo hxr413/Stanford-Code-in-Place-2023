@@ -5,7 +5,7 @@ Karel should fill the whole world with beepers.
 """
 
 def main():
-    # handle width 1 (and only odd rows probably)
+    # handle width 1
     if front_is_blocked():
         while left_is_clear():
             put_beeper()
@@ -13,7 +13,7 @@ def main():
                 move_to_next_row()
             if left_is_clear():
                 move_to_next_row()
-        put_beeper()
+        check_final_beeper()
     # handle width > 1
     else:
         while left_is_clear():
@@ -68,6 +68,20 @@ def move_to_next_row():
     move()
     turn_right()
     
+
+def check_final_beeper():
+    turn_right()
+    move()
+    if beepers_present():
+        turn_around()
+        move()
+        turn_right()
+    else:
+        turn_around()
+        move()
+        put_beeper()
+        turn_right()
+
 
 def back_to_starting_point():
     turn_right()
