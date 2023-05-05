@@ -5,7 +5,6 @@ Karel should paint the whole world, any color you want.
 As an extension, have karel randomly paint each corner.
 """
 
-
 def main():
     while left_is_clear():
         move_one_row()
@@ -34,9 +33,15 @@ def move_to_next_row():
 
 def paint():
     if random():
-        paint_corner("grey")
+        if random():
+            paint_corner("grey")
+        else:
+            paint_corner("orange")
     else:
-        paint_corner("salmon")
+        if random():
+            paint_corner("salmon")
+        else:
+            paint_corner("pink")
 
 
 def turn_around():
