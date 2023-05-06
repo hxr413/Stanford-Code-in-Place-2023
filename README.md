@@ -13,6 +13,7 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 [2023 Karel](https://codeinplace.stanford.edu/cip3/share/VN6lRm0xZvn1v8R2omqv)  
 [Stone Mason Karel](https://codeinplace.stanford.edu/cip3/share/8RiZHD5u1hZ0P7Hydt8y)  
 **Section problem**: [Hospital Karel](https://codeinplace.stanford.edu/cip3/share/yAX3i8THWRqdGw7EE2w3)  
+**Extension problem**: [Midpoint Karel](https://codeinplace.stanford.edu/cip3/share/LawoC5YLdD19mmsA58VK),
 
 ### [Week 2](Week2)  
 [Fill Karel](https://codeinplace.stanford.edu/cip3/share/7RtQ77m3qC9SzaJHViOp)  
