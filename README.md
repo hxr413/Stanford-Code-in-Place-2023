@@ -22,6 +22,12 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 **Extension problems**: [Random Painter Karel](https://codeinplace.stanford.edu/cip3/share/bmYxxCi27dAykGoYnT6j), [Checkerboard Karel](https://codeinplace.stanford.edu/cip3/share/f7FXqWsRljIWJY4uwniQ)  
 
 ### [Week 3](Week3)  
+[Mad Libs](https://codeinplace.stanford.edu/cip3/share/6Vgajz5Ty9ngpXUY8inB)  
+[Multiply Two Numbers](https://codeinplace.stanford.edu/cip3/share/ugNukBPM9jsxpPvxiZIW)  
+[Joke Bot](https://codeinplace.stanford.edu/cip3/share/tHthwM4U85ZE57LjQqaG)  
+[Random Numbers](https://codeinplace.stanford.edu/cip3/share/WI2qh0A50S0L9dt19to2)  
+[Double It](https://codeinplace.stanford.edu/cip3/share/xPSoMfXLwlCp9iinPCpt)  
+[Liftoff](https://codeinplace.stanford.edu/cip3/share/Z20jSdA0Tq81vtI3Bxwg)  
 
 ### [Week 4](Week4)  
 
