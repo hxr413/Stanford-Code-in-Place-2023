@@ -6,7 +6,7 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 
 ## My Assignment Work
 
-> Click "Week x" to view code, and click project names to see their demonstration.  
+> Click "Week x" to view code, and click project names to see their demonstrations.  
 
 ### [Week 1](Week1)  
 [Jigsaw Karel](https://codeinplace.stanford.edu/cip3/share/p9nZ0wap8i7Bp3RoXOug)  
