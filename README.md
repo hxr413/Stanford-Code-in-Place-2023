@@ -28,6 +28,7 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 [Random Numbers](https://codeinplace.stanford.edu/cip3/share/WI2qh0A50S0L9dt19to2)  
 [Double It](https://codeinplace.stanford.edu/cip3/share/xPSoMfXLwlCp9iinPCpt)  
 [Liftoff](https://codeinplace.stanford.edu/cip3/share/Z20jSdA0Tq81vtI3Bxwg)  
+**Section problems**: [Mars Weight Calculator](https://codeinplace.stanford.edu/cip3/share/am2PNjXJXebXWrQIv7ep),[Planetary Weight Calculator](https://codeinplace.stanford.edu/cip3/share/SS7ChYysIob7BU1xWysU)  
 
 ### [Week 4](Week4)  
 
