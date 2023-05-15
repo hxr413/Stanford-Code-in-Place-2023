@@ -31,6 +31,8 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 **Section problems**: [Mars Weight Calculator](https://codeinplace.stanford.edu/cip3/share/am2PNjXJXebXWrQIv7ep), [Planetary Weight Calculator](https://codeinplace.stanford.edu/cip3/share/SS7ChYysIob7BU1xWysU)  
 
 ### [Week 4](Week4)  
+[Khansole Academy](https://codeinplace.stanford.edu/cip3/share/EvSWcmHLwDlHbaIqw6xx)  
+[Khansole Academy Extension](https://codeinplace.stanford.edu/cip3/share/uFRkdeNJGmBEGHgiPTGa)  
 
 ### [Week 5](Week5)  
 
