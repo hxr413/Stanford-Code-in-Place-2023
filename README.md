@@ -34,6 +34,7 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 [Khansole Academy](https://codeinplace.stanford.edu/cip3/share/EvSWcmHLwDlHbaIqw6xx)  
 [Khansole Academy Extension](https://codeinplace.stanford.edu/cip3/share/uFRkdeNJGmBEGHgiPTGa)  
 [Draw Flag](https://codeinplace.stanford.edu/cip3/share/e7ic0WpYsaNnuU7lpJzK)  
+[Random Circles (with extensions)](https://codeinplace.stanford.edu/cip3/share/Ot5N6U1Mo70M0074Rxw3)  
 
 ### [Week 5](Week5)  
 
