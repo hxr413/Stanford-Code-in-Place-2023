@@ -38,5 +38,6 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 
 ### [Week 5](Week5)  
 [Quilt](https://codeinplace.stanford.edu/cip3/share/wWfBZUJ4j0iAxGX9o4vm)  
+[Diagnostic](Week5/Diagnostic) 
 
 ### [Week 6](Week6)  
