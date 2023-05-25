@@ -1,5 +1,6 @@
 """
-As an extension, only draw a circle if the mouse is on the canvas. To do this, check that the mouse_x and mouse_y are within the boundaries of CANVAS_WIDTH and CANVAS_HEIGHT. 
+As an extension, only draw a circle if the mouse is on the canvas. To do this, 
+check that the mouse_x and mouse_y are within the boundaries of CANVAS_WIDTH and CANVAS_HEIGHT. 
 """
 
 from graphics import Canvas
