@@ -42,3 +42,4 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 **Section problem**: [Scribble (with extension)](https://codeinplace.stanford.edu/cip3/share/unCGzV9iNn3DL8Fz4J2D)
 
 ### [Week 6](Week6)  
+[Baby Snake](https://codeinplace.stanford.edu/cip3/share/IvTuhNKLYEhoSlqjI9hH)  
