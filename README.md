@@ -43,4 +43,4 @@ To learn about Karel, go [here](https://compedu.stanford.edu/karel-reader/docs/p
 
 ### [Week 6](Week6)  
 [Baby Snake](https://codeinplace.stanford.edu/cip3/share/IvTuhNKLYEhoSlqjI9hH)  
-**Section problem**: [List Practice](https://codeinplace.stanford.edu/cip3/share/450ene2XaLsEiKBUZvVY), [Heads Up](https://codeinplace.stanford.edu/cip3/share/lmLijoGGgtxGpHIFBAct)
+**Section problems**: [List Practice](https://codeinplace.stanford.edu/cip3/share/450ene2XaLsEiKBUZvVY), [Heads Up](https://codeinplace.stanford.edu/cip3/share/lmLijoGGgtxGpHIFBAct)
