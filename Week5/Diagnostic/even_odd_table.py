@@ -5,9 +5,9 @@ def main():
     # TODO: your code here
     for i in range(MAX_NUMBER):
         if (i % 2 == 0):
-            print(i+1, "is odd")
-        else:
             print(i+1, "is even")
+        else:
+            print(i+1, "is odd")
 
 if __name__ == "__main__":
     main()
