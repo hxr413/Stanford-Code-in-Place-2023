@@ -1,4 +1,5 @@
 # Stanford-Code-in-Place-2023
+*24th Apr, 2023 - 8th Jun, 2023*
 
 ## [Course Website](https://codeinplace.stanford.edu/)  
 This repository is used to store and demonstrate my solutions for weekly assignments.  
